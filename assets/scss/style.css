@@ -9993,9 +9993,4 @@ body .contact-us-section .contact-container .contact-item:nth-of-type(5) {
   body .contact-us-section .contact-container {
     grid-template-areas: "first second" "third fourth" "fifth fifth";
   }
-}
-@media (max-width: 367px) {
-  body .contact-us-section .contact-container {
-    grid-template-areas: "first" "second" "third" "fourth" "fifth";
-  }
 }/*# sourceMappingURL=style.css.map */
